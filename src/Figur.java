@@ -1,7 +1,9 @@
-//Basisklasse für Spieler und Monster
+//Basisklasse fï¿½r Spieler und Monster
 
-//Enthält Tränke für Spieler und Monster
+//Enthï¿½lt Trï¿½nke fï¿½r Spieler und Monster
 
 public class Figur {
 
+	
+	move joa
 }
