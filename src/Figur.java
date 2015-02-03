@@ -4,6 +4,8 @@
 
 public class Figur {
 
+
+jojojo nächstes Beispiel
 	
 	move joa
 }
