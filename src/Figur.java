@@ -7,5 +7,7 @@ public class Figur {
 
 jojojo nächstes Beispiel
 	
+Tim is Toll
+
 	move joa
 }
